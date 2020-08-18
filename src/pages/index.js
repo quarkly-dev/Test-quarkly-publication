@@ -340,7 +340,7 @@ export default (() => {
 		</Section>
 		<Section
 			background="#000D19"
-			padding="20px 0 8px 0"
+			padding="20px 0 20px 0"
 			height="303.141px"
 			sm-height="auto"
 			lg-height="auto"
